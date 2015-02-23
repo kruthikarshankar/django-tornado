@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-
-# Run this with
-# PYTHONPATH=. DJANGO_SETTINGS_MODULE=testsite.settings testsite/tornado_main.py
 # Serves by default at
 # http://localhost:8080/hello-django
 
